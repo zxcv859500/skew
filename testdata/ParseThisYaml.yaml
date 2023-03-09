@@ -1,0 +1,7 @@
+session:
+  job:
+    - name: testJob
+      action: click
+      with:
+        xpath: testxpath
+        test: test
